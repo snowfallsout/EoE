@@ -1,0 +1,1 @@
+import{Behaviour as e,TypeStore as o}from"./needle-engine-a8c7cee7.js";import"./three.module-1012b49f.js";import"./index-69f11bb7.js";class a extends e{start(){console.log("Hello")}update(){const t=new THREE.Vector3(0,1,0);this.gameObject.rotateOnWorldAxis(t,this.context.time.deltaTime*-.5)}}o.add("Ratate",a);
