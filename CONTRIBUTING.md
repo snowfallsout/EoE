@@ -9,11 +9,9 @@ Thank you for your interest and desire to contribute to Echoes of Emotion (EoE)!
 1. Fork this project
 2. Create branches (feature / fix / docs)
 - Example: `feat/interactive-gallery`, `fix/image-path`, `docs/update-readme`
-
 3. Edit and test locally
 4. Commit a commit (clearly stating the changes)
 - Example commit message: `feat: add interactive gallery` / `fix: correct image path` / `docs: update README`
-
 5. Submit a Pull Request (PR), clearly stating the changes and testing methods in the PR description.
 
 ---
