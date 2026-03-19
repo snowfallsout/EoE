@@ -63,6 +63,8 @@ See `CONTRIBUTING.md` for how to contribute, branch naming, PR process and code 
 
 Echoes of Emotion（EoE）是一個結合當代陶藝與數位互動技術的網站展示專案。
 
+👉 [訪問示範](https://snowfallsout.github.io/EoE/)
+
 ## 概要
 - 入口：`index.html`
 - 靜態資源：`assets/`、`include/`
