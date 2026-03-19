@@ -53,7 +53,7 @@ See `CONTRIBUTING.md` for how to contribute, branch naming, PR process and code 
 
 
 ---
-# 中文
+
 # Echoes of Emotion（EoE）
 
 Echoes of Emotion（EoE）是一個結合當代陶藝與數位互動技術的網站展示專案。
