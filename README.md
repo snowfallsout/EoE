@@ -1,7 +1,6 @@
 # Echoes of Emotion (EoE)
 
-[English](./README.en.md) | [中文（繁體）](./README.zh-TW.md) | [CONTRIBUTING](./CONTRIBUTING.md) | [LICENSE](./LICENSE)
-
+[English](./README.en.md) | [中文（繁體）](./README.zh-TW.md)
 ---
 
 歡迎來到 Echoes of Emotion（EoE）專案主頁。
