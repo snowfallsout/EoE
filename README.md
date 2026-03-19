@@ -1,6 +1,6 @@
-# Echoes of Emotion (EoE)
+# README
 
-[![English](https://img.shields.io/badge/Language-English-blue)](#)
+[![English](https://img.shields.io/badge/Language-English-blue)](#README)
 [![中文繁體](https://img.shields.io/badge/Language-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-orange)](#簡介)
 
 ---
