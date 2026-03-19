@@ -1,0 +1,41 @@
+# Echoes of Emotion（EoE）
+
+Echoes of Emotion（EoE）是一個結合當代陶藝與數位互動技術的網站展示專案。
+
+## 概要
+- 入口：`index.html`
+- 靜態資源：`assets/`、`include/`
+- 建置資訊：`needle.buildinfo.json`
+- 專案狀態：原型 / 早期開發（靜態前端為主，JavaScript + HTML）
+
+## 本地快速啟動
+1. 可直接雙擊 `index.html` 開啟快速預覽。
+2. 或使用簡易靜態伺服器：
+   - Python 3：
+     ```
+     python -m http.server 8000
+     ```
+     然後開啟 `http://localhost:8000`。
+   - Node（live-server / http-server）：
+     ```
+     npx live-server
+     ```
+
+## 建置與部署
+- 若有建置流程，建議加入 `package.json` 並定義 `build`、`start` 等 script，並在此處補上指令。
+- 若要使用 GitHub Pages：
+  - 可把靜態站放在 `docs/` 或使用 `gh-pages` branch，並在 Settings → Pages 啟用。
+  - 可使用 GitHub Actions 自動化 build 並部署到 Pages。
+
+## 目錄說明
+- `index.html` — 網站入口
+- `assets/` — 圖片、音訊、影片等靜態資源
+- `include/` — 可重複使用的 HTML 片段或模組
+- `needle.buildinfo.json` — 建置相關資訊
+
+## 貢獻
+請參考 `CONTRIBUTING.md` 了解貢獻流程、分支命名與 PR 規範。
+
+## 維護者 / 聯絡
+- Repository: https://github.com/snowfallsout/EoE
+- 維護者: Xueyi Huang (github: snowfallsout)
