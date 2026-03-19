@@ -38,4 +38,4 @@ See `CONTRIBUTING.md` for how to contribute, branch naming, PR process and code 
 
 ## Contact / Maintainer
 - Repository: https://github.com/snowfallsout/EoE
-- Maintainer: Xueyi Huang (github: snowfallsout)
+- Maintainer: Xueyi Huang (github: snowfallsout)、SINWU LOK (github: sinwulok）
