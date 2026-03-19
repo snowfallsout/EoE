@@ -1,6 +1,8 @@
 # Echoes of Emotion (EoE)
 
-[English](./README.en.md) | [中文（繁體）](./README.zh-TW.md)
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![中文繁體](https://img.shields.io/badge/Language-Português-green)](README.zh-td.md)
+
 ---
 
 歡迎來到 Echoes of Emotion（EoE）專案主頁。
