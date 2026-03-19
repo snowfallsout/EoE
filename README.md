@@ -51,6 +51,10 @@ See `CONTRIBUTING.md` for how to contribute, branch naming, PR process and code 
 - Repository: https://github.com/snowfallsout/EoE
 - Maintainer: Xueyi Huang (github: snowfallsout)、SINWU LOK (github: sinwulok）
 
+
+---
+---
+
 # Echoes of Emotion（EoE）
 
 Echoes of Emotion（EoE）是一個結合當代陶藝與數位互動技術的網站展示專案。
