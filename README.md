@@ -1,7 +1,7 @@
 # Echoes of Emotion (EoE)
 
 [![English](https://img.shields.io/badge/Language-English-blue)](#)
-[![中文繁體](https://img.shields.io/badge/Language-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-orange)](#zh-hk)
+[![中文繁體](https://img.shields.io/badge/Language-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-orange)](#中文說明)
 
 ---
 
@@ -55,7 +55,7 @@ See `CONTRIBUTING.md` for how to contribute, branch naming, PR process and code 
 
 
 ---
-# ZH-HK
+# 中文說明
 # Echoes of Emotion（EoE）
 
 Echoes of Emotion（EoE）是一個結合當代陶藝與數位互動技術的網站展示專案。
