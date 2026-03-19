@@ -1,48 +1,66 @@
-# Contributing / 貢獻指南
+# Contributing Guidelines
 
-感謝你關注並想為 Echoes of Emotion（EoE）做出貢獻！下面列出基本流程與建議。
-
----
-
-## 1. 基本流程 / Quick workflow
-1. Fork 本專案
-2. 建立分支（feature / fix / docs）
-   - 範例：`feat/interactive-gallery`、`fix/image-path`、`docs/update-readme`
-3. 編輯並在本地測試
-4. 提交 commit（清楚說明變更）
-   - 範例 commit message: `feat: add interactive gallery` / `fix: correct image path` / `docs: update README`
-5. 提交 Pull Request（PR），在 PR 描述中寫清楚變更內容與測試方式
+Thank you for your interest and desire to contribute to Echoes of Emotion (EoE)! Below is a basic outline and suggestions.
 
 ---
 
-## 2. 分支命名建議 / Branch naming
-- feat/... — 新功能
-- fix/... — 修正 bug
-- docs/... — 文件更新
-- chore/... — 例行維護（非功能）
+## 1. Basic Workflow / Quick Workflow
+
+1. Fork this project
+
+2. Create branches (feature / fix / docs)
+
+- Example: `feat/interactive-gallery`, `fix/image-path`, `docs/update-readme`
+
+3. Edit and test locally
+
+4. Commit a commit (clearly stating the changes)
+
+- Example commit message: `feat: add interactive gallery` / `fix: correct image path` / `docs: update README`
+
+5. Submit a Pull Request (PR), clearly stating the changes and testing methods in the PR description.
 
 ---
 
-## 3. PR 與 Code Review
-- 每個 PR 應描述目的、包含的變更與測試步驟
-- 若有涉及���面或資源變動，請附上示意圖或範例頁面截圖
-- Review 通過後合併；如需修改會在 PR 下方留言請你更新
+## 2. Branch Naming Suggestions
+
+- feat/... — New feature
+
+- fix/... — Bug fix
+
+- docs/... — File update
+
+- chore/... — Routine maintenance (non-feature)
 
 ---
 
-## 4. 文件 / Locales
-- README 分為多語檔（README.en.md / README.zh-TW.md），修改文件時請同步更新對應語言版本或提出翻譯 PR
-- 若只是微小文字修改（typo），可在單一語言檔提出 PR，但建議同步兩種語言
+## 3. PR and Code Review
+
+- Each PR Please describe the purpose, included changes, and testing steps.
+
+- If there are any changes to aspects or resources, please attach diagrams or screenshots of example pages.
+
+- The PR will be merged after approval; if modifications are needed, please leave a message below the PR requesting an update.
 
 ---
 
-## 5. 測試與相容性
-- 本專案目前為靜態前端，測試方式以瀏覽器行為為主（Chrome / Firefox / Safari）
-- 若加入 JS 功能，請確認在主要瀏覽器上無錯誤且資源路徑正確
+## 4. Files / Locales
+
+- The README is divided into multilingual files (README.en.md / README.zh-TW.md). When modifying files, please update the corresponding language version or submit a translation PR.
+
+- If it is only a minor textual change (typo), you can submit a PR for a single language file, but it is recommended to submit PRs for both languages.
 
 ---
 
-## 6. 聯絡 / Questions
-如有疑問可在 PR 下方留言或在 repository Issues 中開啟討論（若需要）。
+## 5. Testing and Compatibility
 
-謝謝你的貢獻！
+- This project is currently a static front-end. Testing is primarily based on browser behavior (Chrome / Firefox / Safari).
+
+- If adding JS functionality, please ensure there are no errors on major browsers and that the resource paths are correct.
+
+---
+
+## 6. Contact / Questions
+If you have any questions, please leave a message below the PR or start a discussion in the repository Issues (if needed).
+
+Thank you for your contribution!
