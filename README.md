@@ -1,7 +1,7 @@
 # Echoes of Emotion (EoE)
 
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![中文繁體](https://img.shields.io/badge/Language-Português-green)](README.zh-td.md)
+[![中文繁體](https://img.shields.io/badge/Language-Chinese-green)](README.zh-td.md)
 
 ---
 
