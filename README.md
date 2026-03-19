@@ -15,7 +15,8 @@ Welcome to Echoes of Emotion（EoE）
 
 A website combining contemporary ceramic art with modern digital interactive technology.
 
-Visit: https://snowfallsout.github.io/EoE/
+👉 [Visit Demo](https://snowfallsout.github.io/EoE/)
+
 
 ## Overview
 - Entry point: `index.html`
