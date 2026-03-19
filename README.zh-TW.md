@@ -36,6 +36,6 @@ Echoes of Emotion（EoE）是一個結合當代陶藝與數位互動技術的網
 ## 貢獻
 請參考 `CONTRIBUTING.md` 了解貢獻流程、分支命名與 PR 規範。
 
-## 維護者 / 聯絡
+## 維護人員 / 聯絡
 - Repository: https://github.com/snowfallsout/EoE
-- 維護者: Xueyi Huang (github: snowfallsout)
+- 維護人員: Xueyi Huang (github: snowfallsout)、SINWU LOK (github: sinwulok）
